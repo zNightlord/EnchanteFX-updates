@@ -1,4 +1,4 @@
-m)# EnchanteFX-updates
+# EnchanteFX-updates
 EchanteFX (EFX) report issue and notify updates repository
 
 ## Changelogs
